@@ -70,13 +70,14 @@
 .conteudo{
     padding-top:10px ;
     padding-left: 10px;
-    width: 100%;
+    width: 97%;
     height: 100%;
-    float: left ;
+    float: left;
     text-align: left;
     background-color: darkcyan;
     font-size: medium;
-}
+    margin-left: 20px;
+    }
 
 
 .conteudo img{
