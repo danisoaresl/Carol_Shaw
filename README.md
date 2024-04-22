@@ -1,3 +1,1 @@
-# projeto3-primeirosite
-
-#exercício Elas na Tech
+Elas na Tech
